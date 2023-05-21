@@ -1,0 +1,74 @@
+{
+    "name": "Etop Essien Emmanuella Ubokabasi",
+    "avatar": "https://pbs.twimg.com/profile_images/1606277004978003968/5uYhjvgT_400x400.jpg",
+    "links": [
+        {
+            "title": "Personal Blog 🪶",
+            "href" : "https://ubcodesblog.com/",
+            "image": "https://ubcodesblog.com/favicon.ico"
+        },
+        {
+            "title": "Portfolio 👩🏽‍💻",
+            "href": "https://etopessienemmanuella.netlify.app/assets/images/me2.jpg",
+            "image": "https://pbs.twimg.com/profile_images/1606277004978003968/5uYhjvgT_400x400.jpg"
+        },
+        {
+            "title": "Youtube Tutorials 📱" ,
+            "href": "https://www.youtube.com/@ubcodes/videos",
+            "image": "https://ubcodesblog.com/favicon.ico"
+        },
+        {
+            "title": "My GitHub 🚀",
+            "href": "https://github.com/UB30-4",
+            "image": "https://pbs.twimg.com/profile_images/1606277004978003968/5uYhjvgT_400x400.jpg"
+        },
+        {
+            "title": " Newsletter 📥",
+            "href": "https://ubcodesblog.com/",
+            "image": "https://ubcodesblog.com/favicon.ico"
+        },
+        {
+            "title": " Tiktok ⚙️",
+            "href": "https://www.tiktok.com/@ubcodes_",
+            "image": "https://pbs.twimg.com/profile_images/1606277004978003968/5uYhjvgT_400x400.jpg"
+        }
+      
+    ],
+     "socials": [
+        {
+            "title": "Linkedln",
+            "href": "https://www.linkedin.com/in/emmanuella-etop-essien-b41846227/",
+            "image": ""
+        },
+        {
+            "title": "GitHub",
+            "href": "https://github.com/UB30-4",
+            "image": ""
+        },
+         {
+            "title": "Instagram",
+            "href": "https://www.instagram.com/ubokabasi_/",
+            "image": ""
+        },
+         {
+            "title": "Youtube",
+            "href": "https://www.youtube.com/@ubcodes/videos",
+            "image": ""
+        },
+        {
+            "title": "Twitter",
+            "href" : "https://twitter.com/ubcodes1_",
+            "image": ""
+        },
+        {
+            "title": "TikTok",
+            "href" : "https://tiktok.com/ubcodes",
+            "image": ""
+        },
+        {
+            "title": "Linkedln",
+            "href" : "https://www.linkedin.com/in/emmanuella-etop-essien-b41846227/",
+            "image": ""
+        }
+    ]
+}

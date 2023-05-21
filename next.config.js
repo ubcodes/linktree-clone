@@ -1,4 +1,11 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const nextConfig = {
+    experimental: {
+        appDir: true,
+    },
+    images: {
+        domains: ['pbs.twimg.com', 'ubcodesblog.com'],
+    }
+}
 
 module.exports = nextConfig
