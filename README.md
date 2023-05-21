@@ -26,7 +26,7 @@ To get started with the LinkTree Clone, follow these steps:
 8. Deploy your LinkTree Clone to a hosting service or platform of your choice to make it accessible to others.
 
 ## Demo
-Here is the link to the deployed project - 
+Here is the link to the deployed project - https://emmanuellaubokabasi-mylinktreeclone.vercel.app/
 
 ## Technologies Used
 
